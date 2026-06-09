@@ -4,9 +4,8 @@
 
 在 Windows 上使用 Antigravity 登录 Google 账号时，点击登录后会跳转到浏览器进行 Google 授权。浏览器授权流程本身可以正常打开，但回到 Antigravity 客户端后，页面提示：
 
-![image-20260606130044966](C:\Users\27395\AppData\Roaming\Typora\typora-user-images\image-20260606130044966.png)
+<img width="1732" height="508" alt="image" src="https://github.com/user-attachments/assets/3bca0e16-4a54-472c-b6b7-dcd621ca8a59" />
 
-```text
 There was an unexpected issue setting up your account.
 ```
 
@@ -221,10 +220,8 @@ cloudcode-pa.googleapis.com timeout
 ## 四、后续可能出现的新问题
 
 如果网络问题解决后，出现如下提示：
+<img width="945" height="497" alt="image" src="https://github.com/user-attachments/assets/b433b2ac-5900-48fb-a739-9a9a993d717a" />
 
-![image-20260606130035888](C:\Users\27395\AppData\Roaming\Typora\typora-user-images\image-20260606130035888.png)
-
-```text
 Sorry, this account is ineligible to use Antigravity
 Authentication failed.
 ```
